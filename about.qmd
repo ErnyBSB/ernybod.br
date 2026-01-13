@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+## About Me
+
+This is the about page for ernybod.br.
+
+### Contact
+
+You can add your contact information here.
