@@ -1,0 +1,35 @@
+---
+title: "About"
+---
+
+## About ernybod.br
+
+This website is built with Quarto, a next-generation open-source scientific and technical publishing system. It provides a flexible and powerful platform for creating and sharing content.
+
+## Purpose
+
+This site serves as a foundation for sharing content, ideas, and projects. The structure is designed to be simple yet extensible, making it easy to add new pages and features as needed.
+
+## Technology
+
+Built with:
+
+- **Quarto**: For static site generation and content publishing
+- **Markdown**: For easy content creation
+- **HTML/CSS**: For customization and styling
+
+## Future Plans
+
+This section will be updated with information about:
+
+- Upcoming content and projects
+- New features and improvements
+- Community contributions and collaborations
+
+## Contact
+
+More information coming soon.
+
+---
+
+*Last updated: 2026*

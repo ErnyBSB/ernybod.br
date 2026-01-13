@@ -1,0 +1,54 @@
+---
+title: "Welcome to ernybod.br"
+---
+
+## Introduction
+
+Welcome to **ernybod.br**! This is a modern website built with [Quarto](https://quarto.org), an open-source scientific and technical publishing system.
+
+## About This Site
+
+This site demonstrates the power and flexibility of Quarto for creating beautiful, professional websites with minimal setup. Quarto makes it easy to:
+
+- Write content in Markdown
+- Include code and visualizations
+- Publish professional-looking websites
+- Maintain consistency across pages
+
+## Quarto Features
+
+Quarto supports a wide range of features for creating rich content:
+
+### Text Formatting
+
+You can use *italics*, **bold**, and ***bold italics*** to emphasize your text. You can also create `inline code` for technical terms.
+
+### Lists
+
+Unordered lists are simple:
+
+- First item
+- Second item
+- Third item
+  - Nested item
+  - Another nested item
+
+Ordered lists work too:
+
+1. Step one
+2. Step two
+3. Step three
+
+### Blockquotes
+
+> "The best way to predict the future is to invent it."
+> 
+> — Alan Kay
+
+### Links and More
+
+Visit [Quarto's documentation](https://quarto.org) to learn more about creating amazing content.
+
+## Get Started
+
+Explore the [About](about.html) page to learn more about this site.
