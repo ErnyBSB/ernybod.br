@@ -1,0 +1,21 @@
+---
+title: "Welcome to ernybod.br"
+---
+
+## Welcome
+
+This is the home page of ernybod.br website built with Quarto.
+
+### About This Site
+
+This site is built using [Quarto](https://quarto.org), an open-source scientific and technical publishing system.
+
+### Getting Started
+
+To build this site locally, you'll need to:
+
+1. Install Quarto from [quarto.org](https://quarto.org/docs/get-started/)
+2. Run `quarto preview` to preview the site
+3. Run `quarto render` to build the site
+
+The rendered site will be in the `_site` directory.
