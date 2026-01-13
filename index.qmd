@@ -51,4 +51,4 @@ Visit [Quarto's documentation](https://quarto.org) to learn more about creating 
 
 ## Get Started
 
-Explore the [About](about.qmd) page to learn more about this site.
+Explore the [About](about.html) page to learn more about this site.
